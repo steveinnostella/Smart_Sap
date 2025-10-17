@@ -3,7 +3,7 @@
 ## Overview
 🎉 **Smart_Sap** is a 2D structural mechanics solver specifically designed for structural engineers. It offers a user-friendly interface that allows users to perform simple internal force analysis on frame structures. This practical tool aims to assist engineers and designers in quickly and effectively conducting calculations during the structural design process.
 
-![An example image](https://github.com/steveinnostella/Smart_Sap/blob/main/images/screen_image.jpg)
+![cap_screen](https://github.com/steveinnostella/Smart_Sap/blob/main/images/screen_image.jpg)
 
 ## Key Features
 - 🔍 **2D Frame Analysis**  
@@ -30,6 +30,9 @@ Smart_Sap is particularly suitable for the following scenarios:
 
 ## Conclusion
 🚀 **Smart_Sap** is a powerful 2D structural mechanics solver that meets a variety of structural design needs. Whether for professional engineers or beginners in structural design, users can benefit from its features. By utilizing Smart_Sap, users can enhance their work efficiency and complete structural analysis and design tasks with greater ease.
+
+## Contact
+For inquiries, please email: [steve@innostella.hk](mailto:steve@innostella.hk)
 
 ---
 
